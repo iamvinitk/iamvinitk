@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SnapJobs<br>🌱 I’m currently learning about Large Language Models<br>⚡ Fun fact - I can solve a Rubik's Cube in under 2 minutes
+🔭 I’m currently working on SnapJobs<br><br>🌱 I’m currently learning about Large Language Models<br><br>⚡ Fun fact - I can solve a Rubik's Cube in under 2 minutes
 
 
 ## 🌐 Socials:
